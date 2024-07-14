@@ -2,6 +2,9 @@
   "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
+{ "key": "巴士", "name": "🌸┃无名┃动漫┃Sky", "type": 3, "api": "csp_Dm84", "searchable": 1,"changeable": 1, "jar": "https://ghproxy.net/https://github.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar"},
+
+    
     {
       "key": "本地",
       "name": "本地",
